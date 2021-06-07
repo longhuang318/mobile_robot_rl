@@ -1,4 +1,4 @@
-# Mobile robot control using Deep Reinforcement Learning
+# Mobile robot control using Deep Reinforcement Learning （ V-REP, torch, SAC）
 ### Short description
 Following project was a part of my master thesis. Current version is a little bit modified and 
 much improved. The project is using modified algorithm Deterministic Policy Gradient 
